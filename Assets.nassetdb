@@ -1455,6 +1455,12 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "43a936cf-b674-4290-a860-6ee825e44444": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/M_Skybox.mtli.nasset",
+        "thumbnail": "8bcac5e9-3d51-56dc-992a-a0c38bb6b2e6"
+    },
     "43b7a0ab-b591-5f39-4a94-4ef6877ba82b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
